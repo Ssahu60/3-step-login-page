@@ -1,0 +1,23 @@
+{
+  "name": "palnest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.0.12"
+  },
+  "dependencies": {
+    "@material/textfield": "^14.0.0",
+    "@material/web": "^1.2.0",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "rollup": "^4.9.6"
+  }
+}
